@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "RedMarbles"
 name = "CentaurNoMore"
-versionNumber = "0.1.0"
+versionNumber = "0.1.1"
 description = "Disables the centaur card from ever activating by changing it's auto activation requirement from 1 through 5 cards to 1 through 8."
 websiteUrl = "https://github.com/RedMarbles1/CentaurNoMore/"
 containsNsfwContent = false
